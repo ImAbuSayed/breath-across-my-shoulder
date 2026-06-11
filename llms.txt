@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breath-across-my-shoulder/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Breath Across My Shoulder, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-across-my-shoulder/) |
+| **Get License** | [Official Music Licensing for Breath Across My Shoulder, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-across-my-shoulder/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3037)
 
 ---
 
