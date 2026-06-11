@@ -1,4 +1,4 @@
-# Breath Across My Shoulder
+# Breath Across My Shoulder, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Breath Across My Shoulder |
+| **Title** | Breath Across My Shoulder, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breath-across-my-shoulder/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Breath Across My Shoulder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-across-my-shoulder/) |
+| **Get License** | [Music Rights & Licensing for Breath Across My Shoulder, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breath-across-my-shoulder/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight pulling on your shadow
+> Tracing the lines I want to know
+> Every little breath across my shoulder
+> Pulling me closer, pulling me closer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `66356ccd4554c7531ab655fa83801790632bd661a0bb523d497352e75b91d0dc` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
